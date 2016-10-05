@@ -1,2 +1,2 @@
 # ABHandler
-A small class for AB testing
+Made a class for handling AB testing in a small project.
