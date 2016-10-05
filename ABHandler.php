@@ -6,7 +6,7 @@ use Session;
 
 class ABHandler
 {
-    private static $experiments = ['expA', 'expB', 'expC', 'expD];
+    private static $experiments = ['expA', 'expB', 'expC', 'expD'];
     private static $goals = ['goal1', 'goal2', 'goal3'];
     private static $path = "../";
 
